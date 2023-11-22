@@ -1,0 +1,3 @@
+﻿  demo1.cpp
+C:\Users\491490\source\repos\Demo\Demo\demo1.cpp(15,25): error C2039: 'total_students': is not a member of 'std::basic_fstream<char,std::char_traits<char>>'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\iosfwd(245): message : see declaration of 'std::basic_fstream<char,std::char_traits<char>>'
